@@ -176,7 +176,7 @@ function App() {
           <h2 className="text-3xl font-bold mb-12 text-center">Technical Skills</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
-              { title: 'Backend', items: 'Python, FastAPI, Django, Flask, REST APIs, GraphQL, Webhooks' },
+              { title: 'Backend', items: 'Python, FastAPI, Django, Flask, REST APIs, GraphQL, Webhooks, JWT/OAuth2, API Security, Transaction Reconciliation' },
               { title: 'Payments', items: 'Mobile Money, Cards, QR Payments, Wallet Systems, Bank Transfers' },
               { title: 'Frontend', items: 'React.js, Next.js, Tailwind CSS, JavaScript, TypeScript, HTML/CSS' },
               { title: 'Mobile', items: 'Expo, React Native (iOS & Android)' },
@@ -196,7 +196,7 @@ function App() {
       {/* Contact */}
       <section id="contact" className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-4">Let's Work Together</h2>
+          <h2 className="text-3xl font-bold mb-4">Let&apos;s Work Together</h2>
           <p className="text-slate-400 mb-8">
             I am open to remote engineering roles and consulting projects in fintech, payments, e-commerce, and automation.
           </p>
