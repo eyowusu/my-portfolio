@@ -4,7 +4,7 @@ A one-page portfolio site built with React, Tailwind CSS, and Vite.
 
 ## Live Sites
 
-- Portfolio: `[your-vercel-url.vercel.app]` *(update after Vercel deployment)*
+- Portfolio: https://my-portfolio-gamma-gold-28.vercel.app
 - LinkedIn: https://www.linkedin.com/in/emmanuel-owusu-addo-67733821a
 - GitHub: https://github.com/eyowusu
 - Email: emmanuelowusuaddo44@gmail.com
@@ -63,7 +63,7 @@ The output goes to the `dist/` folder.
    - Output Directory: `dist`
 6. Click **Deploy**.
 
-After deployment, Vercel will give you a public URL like `https://your-project-name.vercel.app`. Copy that URL into your CV and LinkedIn profile.
+Your portfolio is deployed at https://my-portfolio-gamma-gold-28.vercel.app. Copy that URL into your CV and LinkedIn profile.
 
 ## Customization
 
