@@ -100,7 +100,7 @@ function App() {
                 A live fintech payment platform enabling Mobile Money, card payments, QR payments, wallet-to-wallet transfers, and bank transfers.
               </p>
               <ul className="text-slate-400 text-sm space-y-2 mb-6">
-                <li>Python backend for secure payment processing and wallet management</li>
+                <li>Django + Django REST Framework backend for secure payment processing and wallet management</li>
                 <li>Multi-provider integrations and webhook handling</li>
                 <li>TypeScript / Next.js / React frontend for marketing site and dashboards</li>
                 <li>Transaction history, reporting, and admin dashboards</li>
